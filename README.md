@@ -4,7 +4,7 @@
 <h1 id="top" align="center">Hi, I'm Youssef <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1></h1>
 
 - 🚀 Software Engineer<br>
-- 🌱 I’m currently learning Back-end using .Net<br>
+- 🌱 I’m currently working as a FullStack developer using .Net&Angular<br>
 - 📫 How to reach me: youssefmohmaedyahoo.com9@gmail.com
 
 <br>
